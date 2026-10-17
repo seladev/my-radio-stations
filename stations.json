@@ -1,0 +1,93 @@
+{
+  "version": 1,
+  "stations": [
+    {
+      "id": "galgalatz",
+      "name": { "he": "גלגלצ", "en": "Galgalatz" },
+      "streams": [
+        "https://glzwizzlv.bynetcdn.com/glglz_mp3",
+        "https://glzwizzlv.bynetcdn.com/glglz_aac"
+      ],
+      "logo": "",
+      "aliases": ["גלגלצ", "גלגל\"צ", "גלגל צ", "galgalatz", "galgaz", "galgalaz", "galgalats"]
+    },
+    {
+      "id": "galei_tzahal",
+      "name": { "he": "גלי צה״ל", "en": "Galei Tzahal" },
+      "streams": [
+        "https://glzwizzlv.bynetcdn.com/glz_mp3",
+        "https://glzwizzlv.bynetcdn.com/glz_aac"
+      ],
+      "logo": "",
+      "aliases": ["גלי צהל", "גלי צה\"ל", "גלצ", "גל\"צ", "galei tzahal", "galei zahal", "galey tsahal", "galatz", "galaz", "army radio", "idf radio"]
+    },
+    {
+      "id": "kan_bet",
+      "name": { "he": "כאן ב", "en": "Kan Bet (Reshet Bet)" },
+      "streams": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_BET.mp3",
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_BETAAC.aac"
+      ],
+      "logo": "",
+      "aliases": ["כאן ב", "כאן בית", "רשת ב", "רשת בית", "reshet bet", "reshet b", "kan bet", "kan b"]
+    },
+    {
+      "id": "kan_gimel",
+      "name": { "he": "כאן גימל", "en": "Kan Gimel" },
+      "streams": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_GIMMEL.mp3",
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_GIMMELAAC.aac"
+      ],
+      "logo": "",
+      "aliases": ["כאן גימל", "כאן ג", "רשת ג", "רשת גימל", "reshet gimel", "kan gimel"]
+    },
+    {
+      "id": "kan_88",
+      "name": { "he": "כאן 88", "en": "Kan 88" },
+      "streams": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_88.mp3",
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_88AAC.aac"
+      ],
+      "logo": "",
+      "aliases": ["כאן 88", "כאן שמונים ושמונה", "88 fm", "88", "kan 88", "kan eighty eight", "eighty eight fm"]
+    },
+    {
+      "id": "eco99",
+      "name": { "he": "אקו 99", "en": "Eco 99" },
+      "streams": [
+        "https://eco01.livecdn.biz/ecolive/99fm_aac/icecast.audio",
+        "https://eco-live.mediacast.co.il/99fm_aac"
+      ],
+      "logo": "",
+      "aliases": ["אקו 99", "אקו", "אקו תשעים ותשע", "99 fm", "eco 99", "eco", "eco ninety nine", "echo 99", "echo ninety nine", "ninety nine fm"]
+    },
+    {
+      "id": "fm103",
+      "name": { "he": "103FM", "en": "103FM" },
+      "streams": [
+        "https://cdn.cybercdn.live/103FM/Live/icecast.audio"
+      ],
+      "logo": "",
+      "aliases": ["103", "103 fm", "מאה ושלוש", "רדיו 103", "one oh three", "one hundred three fm", "radio 103"]
+    },
+    {
+      "id": "radius100",
+      "name": { "he": "רדיוס 100FM", "en": "Radius 100FM" },
+      "streams": [
+        "https://cdn.cybercdn.live/Radios_100FM/Audio/icecast.audio"
+      ],
+      "logo": "",
+      "aliases": ["רדיוס", "רדיוס 100", "100 fm", "100", "מאה אף אם", "radius", "radius 100", "radios 100"]
+    },
+    {
+      "id": "tlv102",
+      "name": { "he": "רדיו תל אביב 102", "en": "Radio Tel Aviv 102" },
+      "streams": [
+        "https://102.livecdn.biz/102fm_aac",
+        "https://cdn.cybercdn.live/102FM/Live/icecast.audio"
+      ],
+      "logo": "",
+      "aliases": ["רדיו תל אביב", "תל אביב", "102", "102 fm", "radio tel aviv", "tel aviv radio", "radio tel aviv 102"]
+    }
+  ]
+}
